@@ -108,6 +108,7 @@ header span nav
 main
 {
 	width: 100%;
+	padding-bottom: 47px;
 	background-color: rgba(255, 255, 255, 0);
 }
 
@@ -148,6 +149,33 @@ main section p
 	float: left; 
 	margin-right: 20px;
 }
+
+main section button
+{
+	padding-left: 35px; 
+	padding-right: 35px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	color: white;
+	background-color: #4aaaa5;
+	font-size: 16px;
+	border: 0px;
+	display: block;
+	cursor: pointer;
+}
+
+main section button:hover
+{
+	background-color: #5bbbb6;
+}
+
+main section button:active
+{
+	padding-top: 12px;
+	padding-bottom: 8px;
+	background-color: #288883;
+}
+
 
 footer
 {
