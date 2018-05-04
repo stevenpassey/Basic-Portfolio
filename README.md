@@ -1,6 +1,10 @@
 # Basic-Portfolio
 Basic-Portfolio Project Created: April 27 7:49pm
 <hr>
+May 3 17:24:47
+
+    Removed unnecessary margin declaration in style.css
+
 May 3 17:04:19  
 
     Added Comment
