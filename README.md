@@ -24,13 +24,11 @@ May 1 21:20:44
 
 May 1 21:18:34  
 
-    Added reset.css and changed th
-    e font-size and weight of the h1 tags
+    Added reset.css and changed the font-size and weight of the h1 tags
 
 May 1 20:07:04  
 
     Moved background-image declaration to the HTML instead of the css to prevent the image load delay
-
 
 Apr 28 08:31:58  
 
@@ -76,10 +74,10 @@ Apr 27 19:57:33
     First Commit
     - Created File Structure
     - index.html, contact.html, portfolio.html.
-     A folder called assets.
-     Inside the assets directory, two additional folders: css and images.
-    In the css folder, a file called style.css.
-    In the css folder, a file called reset.css. In the image folder, a image called me.jpg.
+    - A folder called assets.
+    - Inside the assets directory, two additional folders: css and images.
+    - In the css folder, a file called style.css.
+    - In the css folder, a file called reset.css. In the image folder, a image called me.jpg.
 
 
 Apr 27 19:49:46  
