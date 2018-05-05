@@ -1,6 +1,14 @@
 # Basic-Portfolio
 Basic-Portfolio Project Created: April 27 7:49pm
 <hr>
+May 5 09:10:03 
+
+    Added images for portfolio.html
+    Added cursor changes for clickables
+    Added bio in index.html
+    Added image size declrations in style.css
+    Added max char length for input boxes
+
 May 3 17:24:47
 
     Removed unnecessary margin declaration in style.css
